@@ -7,6 +7,8 @@ E-mail: abdulahaislam210917@gmail.com
 
 *******************/
 
+According to - https://codex.wordpress.org/Function_Reference 
+
 
 Posts Function -
 
